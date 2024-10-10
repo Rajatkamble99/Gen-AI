@@ -123,6 +123,8 @@ gpt4o_chatbot/
 ├── requirements.txt      # List of required Python packages
 ├── README.md             # Project documentation
 ```
+# Google slides link
+https://npuniversityedu-my.sharepoint.com/:p:/r/personal/rkamble2949_student_sfbu_edu/Documents/Presentation2.pptx?d=w8375b0ca0f0b4389a128a6dab8e5dc86&csf=1&web=1&e=2JxW9x
 
 
 
