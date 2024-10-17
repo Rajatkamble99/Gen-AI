@@ -1,6 +1,6 @@
 /* Set the background color for the entire page */
 body {
-  background-color: #120c0c; /* Dark background */
+  background-color: #9fd3c7; /* Dark background */
   color: #fdffc0; /* Light text color for better readability */
   font-family: Arial, sans-serif; /* Change font family */
   display: flex;
@@ -22,7 +22,7 @@ form {
   margin: 0 auto;
   max-width: 800px;
   padding: 15px;
-  background-color: #383838; /* Darker background for container */
+  background-color: #385170; /* Darker background for container */
   border-radius: 8px; /* Rounded edges */
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Stronger shadow for depth */
 }
@@ -36,8 +36,8 @@ form {
 /* Style the result sections (comment and email) */
 .result-section {
   display: flex;
-  background-color: #4d4d4d; /* Darker gray for sections */
-  border: 1px solid #4d4d4d; /* Darker gray border */
+  background-color: #142d4c; /* Darker gray for sections */
+  border: 1px solid #142d4c; /* Darker gray border */
   margin-bottom: 20px;
 }
 
@@ -48,11 +48,11 @@ form {
 }
 
 .left-section {
-  background-color: #666666; /* Darker gray for left section */
+  background-color: #142d4c; /* Darker gray for left section */
 }
 
 .right-section {
-  background-color: #666666; /* Gray color for right section */
+  background-color: #142d4c; /* Gray color for right section */
 }
 
 .result-section h2 {
@@ -122,4 +122,3 @@ h1 {
 .translate-button:hover {
   background-color: #666666; /* Darker gray on hover */
 }
-
